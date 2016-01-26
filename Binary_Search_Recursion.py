@@ -20,3 +20,5 @@ if result > 0:
   print "The position of %d in array is %d" % (num, result)
 else:
   print "element not found"
+
+
